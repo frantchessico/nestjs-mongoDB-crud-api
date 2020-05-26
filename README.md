@@ -1,7 +1,9 @@
-# Author: Francisco Inoque
+
 
 <p align="center">
-  <a href="https://frantchessico.github.io/portfolio/" target="blank"><img src="https://avatars0.githubusercontent.com/u/40237204?s=460&u=0ace1ed6481d6401ca9e0f7e53ded95bdb3b61be&v=4" width="320" alt="Nest Logo" /></a>
+  <a href="https://frantchessico.github.io/portfolio/" target="blank"><img src="https://avatars0.githubusercontent.com/u/40237204?s=460&u=0ace1ed6481d6401ca9e0f7e53ded95bdb3b61be&v=4" width="320" alt="Nest Logo" />
+  <br> # Author: Francisco Inoque
+  </a>
 </p>
 
 <p align="center">
