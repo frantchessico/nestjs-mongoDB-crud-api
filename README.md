@@ -1,6 +1,10 @@
 # Author: Francisco Inoque
 
 <p align="center">
+  <a href="https://frantchessico.github.io/portfolio/" target="blank"><img src="https://avatars0.githubusercontent.com/u/40237204?s=460&u=0ace1ed6481d6401ca9e0f7e53ded95bdb3b61be&v=4" width="320" alt="Nest Logo" /></a>
+</p>
+
+<p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo_text.svg" width="320" alt="Nest Logo" /></a>
 </p>
 
