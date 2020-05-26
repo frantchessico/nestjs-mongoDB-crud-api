@@ -1,14 +1,41 @@
+<!-- Font Awesome -->
+<head>
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css">
+<!-- Google Fonts -->
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap">
+<!-- Bootstrap core CSS -->
+<link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.0/css/bootstrap.min.css" rel="stylesheet">
+<!-- Material Design Bootstrap -->
+<link href="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.19.0/css/mdb.min.css" rel="stylesheet">
+</head>
 
 
-<p align="center">
-  <a href="https://frantchessico.github.io/portfolio/" target="blank"><img src="https://avatars0.githubusercontent.com/u/40237204?s=460&u=0ace1ed6481d6401ca9e0f7e53ded95bdb3b61be&v=4" width="320" alt="Nest Logo" />
-  <br> # Author: Francisco Inoque
+<div class="card card-cascade wider">
+<div class="view view-cascade overlay">
+    <p align="center">
+  <a href="https://frantchessico.github.io/portfolio/" target="blank"><img  class="card-img-top" src="https://avatars0.githubusercontent.com/u/40237204?s=460&u=0ace1ed6481d6401ca9e0f7e53ded95bdb3b61be&v=4" width="320" alt="Nest Logo" />
+  <br> Author: <strong class="card-title" >Francisco Inoque</strong>
   </a>
 </p>
 
-<p>
- ## Olá  ## dev, neste repositório eu criei um crud usando um  framework nodejs, chamado nestjs. Este framework possui uma estrutura bem parecida com a de Angular e, como vantangem, ele uso TypeScript para codificação, bem pode usar o JavaScript puro, para tal, pode consultar a documentação ou então pode entrar contacto comigo através do meu portfolio para mais informações.
+   <a href="#!">
+      <div class="mask rgba-white-slight"></div>
+    </a>
+  </div>
+
+<div class="card-body card-body-cascade text-center">
+
+
+<p class="card-text">
+ <br> <h1 style="font-weight:bold; color: #8e2ddd">Olá Dev</h1> Neste repositório eu criei um crud usando um  framework nodejs, chamado nestjs. Este framework possui uma estrutura bem parecida com a de Angular e, como vantangem, ele uso TypeScript para codificação, bem pode usar o JavaScript puro, para tal, pode consultar a documentação ou então pode entrar contacto comigo através do meu portfolio para mais informações.
 </p>
+<a class="px-2 fa-lg li-ic"><i class="fab fa-linkedin-in" href="https://www.linkedin.com/in/francisco-jaime-inoque-24a76112b/" target="_blank"></i></a>
+    <!-- https://web.facebook.com/ferrao.verdadepascual/ -->
+    <a  href="https://twitter.com/InoqueJaime" target="_blank" class="px-2 fa-lg tw-ic" ><i class="fab fa-twitter"></i></a>
+    <!-- Dribbble -->
+    <a  href="https://web.facebook.com/ferrao.verdadepascual/" target="_blank" class="px-2 fa-lg fb-ic"><i class="fab fa-facebook-f"></i></a>
+</div>
+</div>
 
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo_text.svg" width="320" alt="Nest Logo" /></a>
